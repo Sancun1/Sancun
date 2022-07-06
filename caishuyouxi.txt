@@ -4,9 +4,13 @@
 #xiugai daima
 #master fengzhi xiugai
 #hot-fix fengzhi xiugai
+<<<<<<< HEAD
 #hebingfengzhi test
 #master test
 #hot-fix test
+=======
+#pull test
+>>>>>>> de03928559286471fd70ee4687119be86c8ec257
 int main()
 {
     srand(time(0));
